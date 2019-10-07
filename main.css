@@ -1,0 +1,30 @@
+a:link, a:visited {
+    color: rgb(220, 255, 21);
+    font-weight: bolder;
+    text-decoration: underline 
+}
+
+a:focus, a:hover {
+    color: gold;
+    font-weight: bolder;
+    text-decoration: white;
+}
+
+body {
+    background-color: rgb(113, 5, 146);
+    font-size: 16px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-left: 3em;
+    margin-right: 20em;
+}
+
+h1 {
+    text-align: center;
+    font-size: 50px;
+}
+
+h1, h2, h3 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-transform: capitalize;
+    text-shadow: rgb(255, 217, 5) 2px 2px 4px;
+}
