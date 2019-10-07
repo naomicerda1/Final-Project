@@ -29,7 +29,7 @@ h1, h2, h3 {
     text-shadow: rgb(255, 217, 5) 2px 2px 4px;
 }
 
-#photo img {
+#photo img, #photo2 img, #photo3 img {
     border: 2px dashed gold;
     max-width: 100%
 }
