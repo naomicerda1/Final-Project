@@ -28,3 +28,8 @@ h1, h2, h3 {
     text-transform: capitalize;
     text-shadow: rgb(255, 217, 5) 2px 2px 4px;
 }
+
+#photo img {
+    border: 2px dashed gold;
+    max-width: 100%
+}
